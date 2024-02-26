@@ -1,0 +1,14 @@
+{
+  "name": "sig2svg-api",
+  "version": "0.0.1",
+  "description": "A lightweight, no-frills backend service designed to support the real-time creation and SVG conversion of user-drawn signatures. It provides API endpoints for signature drawing and handles SVG generation, ensuring users can easily sketch, finalize, and download their signatures without the need for registration or data retention.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brennan O'Brien",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
